@@ -1,6 +1,9 @@
 Since this tool uses SSHJ and not JSCH because of stupid issues
 you will need to follow a few steps to get this working outside of the IDE
 
+Please make sure you have a JDK with Java FX installed
+https://www.azul.com/downloads/?version=java-8-lts&architecture=x86-64-bit&package=jdk-fx#zulu
+
 # How to use:
 1. double click on start.bat
 2. Settings -> FTP Settings
